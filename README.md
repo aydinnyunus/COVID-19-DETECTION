@@ -26,7 +26,6 @@ python3 covid.py -d dataset
 
 **https://github.com/ieee8023/covid-chestxray-dataset**
 
-Innovation from "https://www.pyimagesearch.com/"
 
 ## Another Projects : 
 
